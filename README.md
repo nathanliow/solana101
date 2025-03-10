@@ -1,8 +1,16 @@
-# solana101
+# Solana101
 
 This is a repository made by Texas Blockchain Labs Division in collaboration with
 CollegeDAO. It is meant to be a resource for blockchain clubs to use and modify to 
 their needs.
+
+## Purpose of Solana101 ##
+
+We don't want to rewrite existing Solana documentation. We want to provide a simple and high-level
+overview of the most important concepts you should know when using and developing on Solana.
+More detailed (and more technical) information can be found in the resources section of each topic.
+
+We also want to expand open source code and resources for Solana. 
 
 ## Intention of Use
 
@@ -23,3 +31,9 @@ for anything Solana related.
 - https://www.helius.dev/blog: TypeScript + Rust, practical guides to create specific things on-chain
 - https://www.anchor-lang.com/docs: Rust + Anchor framework
 - https://solana-labs.github.io/solana-web3.js/: TypeScript framework/library
+
+# Get in touch with Texas Blockchain #
+
+- [Discord](https://discord.gg/Zte8bfJJy4)
+- [Website](https://www.texasblockchain.org/)
+- [Email](mailto:txbchain@gmail.com)
